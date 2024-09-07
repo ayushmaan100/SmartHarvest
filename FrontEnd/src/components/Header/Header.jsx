@@ -17,9 +17,7 @@ const Header = () => {
   let Links = [
     { id: 1, name: `${t("home")}`, link: "/" },
     { id: 2, name: `${t("cropRecom")}`, link: "/croprecommendation" },
-    { id: 3, name: `${t("yieldPrediction")}`, link: "/cropyield" },
-    // { id: 4, name: "Disease Prediction", link: "/disease-prediction" },
-    { id: 5, name: `${t("cropInfo")}`, link: "/cropinfo" },
+    { id: 3, name: `${t("cropInfo")}`, link: "/cropinfo" },
   ];
   let [open, setOpen] = useState(false);
 

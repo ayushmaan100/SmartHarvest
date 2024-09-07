@@ -54,14 +54,6 @@ export default function Footer() {
                 </li>
                 <li className="mb-4">
                   <Link
-                    to="/cropyield"
-                    className="hover:underline hover:text-green-700 "
-                  >
-                  {t(["yieldPrediction"])}
-                  </Link>
-                </li>
-                <li className="mb-4">
-                  <Link
                     to="/cropinfo"
                     className="hover:underline hover:text-green-700 "
                   >
