@@ -9,8 +9,6 @@ FarmAI is a comprehensive agricultural management system that leverages cutting-
 
 - Crop Recommendation: Utilizes machine learning algorithms to recommend the most suitable crops based on soil characteristics, climate conditions, and historical data.
 
-- Yield Prediction: Predicts crop yields for upcoming seasons using historical yield data, weather forecasts, and soil health indicators.
-
 - Crop Information: Provides access to comprehensive information on various crops, including cultivation techniques, nutritional requirements, and pest management strategies.
 
 - Help Page: Offers a user-friendly guide on how to navigate and utilize the features of the FarmAI platform effectively, ensuring farmers can make the most out of the platform to optimize their agricultural practices and maximize crop productivity.
@@ -27,13 +25,6 @@ FarmAI is a comprehensive agricultural management system that leverages cutting-
 
 - Benefits: By providing tailored crop recommendations, farmers can make informed decisions about crop selection, optimize resource utilization, and maximize yields.
 
-**Crop Yield Prediction:**
-
-- Overview: The crop yield prediction feature forecasts crop yields for upcoming seasons using historical yield data, weather forecasts, and soil health indicators.
-
-- Functionality: By analyzing historical yield data, current weather conditions, and soil health parameters, the system predicts the expected yield for specific crops in the coming season. This information helps farmers plan their planting schedules, optimize inputs, and manage resources more effectively.
-
-- Benefits: Accurate yield predictions enable farmers to anticipate market demands, optimize production plans, and make informed decisions about resource allocation, ultimately improving farm profitability and sustainability.
 
 **Crop Information:**
 
