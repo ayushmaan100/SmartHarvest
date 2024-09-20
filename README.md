@@ -63,10 +63,7 @@ The motivation behind FarmAI stems from the desire to address various challenges
 ## Getting Started
 
 ## REPO LINK
-https://github.com/Sumanth-35/byteverse_Dev-CP.git
 1. Clone the Git repository:
-   bash
-   git clone https://github.com/Sumanth-35/byteverse_Dev-CP.git
 
 2.Navigate to the project directory: cd farm-ai
 
@@ -80,9 +77,6 @@ ii)Backend: cd backend && pip install -r requirements.txt
 
 6.Open your web browser and navigate to http://localhost:5173 to access the Farm AI application.
 
-
-
-VIDEO DEMONSTRATION OF OUR PROJECT ON WEB can be viewed [here]()
 
 
 ## Images of Website
