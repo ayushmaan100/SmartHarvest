@@ -1,11 +1,11 @@
-# Farm AI - Agricultural Management System with ML 
+# SmartHarvest - Agricultural Management System with ML 
 
-Farm AI is an innovative agricultural management system designed to assist farmers in optimizing crop yield, mitigating risks, and improving overall productivity. With features such as crop recommendation, yield prediction and crop information, Farm AI empowers farmers with data-driven insights to make informed decisions and adopt best practices in farming. The platform also includes a "Help Us" page to guide farmers on how to effectively utilize the website's features.
+Farm AI is an innovative agricultural management system designed to assist farmers in optimizing crop yield, mitigating risks, and improving overall productivity. With features such as crop recommendation, yield prediction and crop information, SmartHarvest empowers farmers with data-driven insights to make informed decisions and adopt best practices in farming. The platform also includes a "Help Us" page to guide farmers on how to effectively utilize the website's features.
 
 
 ## **Project Overview**
 
-FarmAI is a comprehensive agricultural management system that leverages cutting-edge technologies to empower farmers with actionable insights and recommendations for crop cultivation. The platform offers the following key features:
+SmartHarvest is a comprehensive agricultural management system that leverages cutting-edge technologies to empower farmers with actionable insights and recommendations for crop cultivation. The platform offers the following key features:
 
 - Crop Recommendation: Utilizes machine learning algorithms to recommend the most suitable crops based on soil characteristics, climate conditions, and historical data.
 
@@ -75,7 +75,7 @@ ii)Backend: cd backend && pip install -r requirements.txt
 
 5.Run the frontend server: cd frontend && npm run dev
 
-6.Open your web browser and navigate to http://localhost:5173 to access the Farm AI application.
+6.Open your web browser and navigate to http://localhost:5173 to access the SmartHarvest application.
 
 
 
@@ -105,4 +105,4 @@ ii)Backend: cd backend && pip install -r requirements.txt
 ![Screenshot 2024-04-14 190345](https://github.com/anuragbhanu/Weather_app/assets/130905151/2fd9b0b8-6a61-4c04-8455-e5efc330679f)
 ![Screenshot 2024-04-14 190410](https://github.com/anuragbhanu/Weather_app/assets/130905151/8052f58b-fc3f-49cf-95ff-1d866ef77502)
 
-# Farm-AI
+# SmartHarvest
